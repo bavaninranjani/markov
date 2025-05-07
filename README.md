@@ -58,14 +58,6 @@ Below screenshot displays transition probablities, for example probability of us
      * The goal is to identify which web experiments, in a multi-variant and feature experimentation setup, are positively influencing conversions—and which ones may be negatively impacting user behavior.
 
 
-How To Run
--->Clone the repo: 
-
-git clone [https://github.com/bavaninranjani/markov.git](https://github.com/bavaniranjani/markov.git)
-
--->pip install -r requirements.txt
-
--->python markov_attribution_pipeline.py
 
 * Resources
  [Markov Chain Methodology for Attribution – Medium Article](https://medium.com/data-science/marketing-channel-attribution-with-markov-chains-in-python-part-2-the-complete-walkthrough-733c65b23323)
