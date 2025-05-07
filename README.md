@@ -61,7 +61,7 @@ Below screenshot displays transition probablities, for example probability of us
 How To Run
 -->Clone the repo: 
 
-git clone [https://github.com/bavaniranjani/markov.git](https://github.com/bavaniranjani/markov.git)
+git clone [https://github.com/bavaninranjani/markov.git](https://github.com/bavaniranjani/markov.git)
 
 -->pip install -r requirements.txt
 
